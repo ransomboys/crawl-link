@@ -3,7 +3,7 @@ ____
 Tool pengambil link di sebuah page webdite.
 # Screeshots
 ____
-![Screenshots]()
+![Screenshots](https://github.com/ransomboys/crawl-link/blob/master/IMG_20200220_033714.jpg)
 
 # Instalasi
 ____
